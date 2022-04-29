@@ -1,0 +1,14 @@
+{
+  "name": "personal-site-gatsby-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FanciestW/personal-site-gatsby-intro",
+  "author": "William Lin <wlin26@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@wkocjan/gatsby-theme-intro": "^2.0.1",
+    "gatsby": "^4.13.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
