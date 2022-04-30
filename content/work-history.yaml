@@ -1,18 +1,36 @@
-- company: Atomic Studio
-  position: Senior Web Developer
-  period: January 2018 - present
-  url: https://atomic.studio
+- company: Capital One
+  position: Software Engineer
+  period: February 2021 - present
+  url: https://capitalone.com
 
-- company: Atomic Studio
-  position: Web Developer
-  period: January 2014 - December 2017
-  url: https://atomic.studio
+- company: University of New Haven
+  position: Graduate Computer Science Teaching Assistant
+  period: September 2019 - December 2020
+  url: https://newhaven.edu
 
-- company: WebConnect Agency
-  position: Junior Web Developer
-  period: November 2010 - December 2013
-  url:
+- company: Capital One
+  position: Intern Software Engineer
+  period: Summer 2019 & Summer 2020
+  url: https://capitalone.com
 
-- company: Freelance
-  position: Web Developer
-  period: April 2008 - October 2010
+- company: SoluTech Inc.
+  position: Lead Software Engineer
+  period: January 2018 - October 2019
+
+- company: Conferdence Inc.
+  position: Android Developer
+  period: March 2018 - May 2019
+
+- company: MITRE Corporation
+  position: Software Engineering Intern
+  period: Summer 2018
+  url: https://mitre.org
+
+- company: Abbott Jewelry Systems Inc.
+  position:  Software Engineer
+  period: October 2013 - May 2018
+  url: https://www.theedgeforjewelers.com
+
+- company: Self Employed
+  position: IT Technician
+  period: August 2015 - August 2017
