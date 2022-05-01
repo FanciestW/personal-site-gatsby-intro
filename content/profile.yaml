@@ -10,15 +10,13 @@
   focus: Web Development
   focus_url: https://github.com/FanciestW
   about: |
-    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
-
-    User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+    I am a software engineer, student, programmer, coder, hacker. I love coding and being a part of the software developer community. You can find me at hackathons hacking away at code and pulling all-nighters. I love contributing to projects and facing new challenges.
   skills:
     - JavaScript
     - Python
     - Go
   tools:
-    - React
+    - ReactJS
     - VSCode
     - Gatsby
   budget:
